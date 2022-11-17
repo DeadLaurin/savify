@@ -18,31 +18,30 @@ Savify
      :alt: Documentation Status
 
 .. image:: https://img.shields.io/github/v/release/laurencerawlings/savify?include_prereleases&style=for-the-badge
-     :target: https://github.com/laurencerawlings/savify/releases
+     :target: https://github.com/DeadLaurin/savify/releases
      :alt: Release
 
 .. image:: https://img.shields.io/github/downloads-pre/laurencerawlings/savify/latest/total?style=for-the-badge
-     :target: https://github.com/laurencerawlings/savify/releases
+     :target: https://github.com/DeadLaurin/savify/releases
      :alt: Downloads
 
 .. image:: https://img.shields.io/discord/701075588466737312?style=for-the-badge
-     :target: https://discordapp.com/invite/SPuPEda
      :alt: Discord
 
 .. image:: https://img.shields.io/github/stars/laurencerawlings/savify?style=for-the-badge
-     :target: https://github.com/laurencerawlings/savify/stargazers
+     :target: https://github.com/DeadLaurin/savify/stargazers
      :alt: Stars
 
 .. image:: https://img.shields.io/github/contributors/laurencerawlings/savify?style=for-the-badge
-     :target: https://github.com/laurencerawlings/savify/graphs/contributors
+     :target: https://github.com/DeadLaurin/savify/graphs/contributors
      :alt: Contributors
 
 .. image:: https://pyup.io/repos/github/LaurenceRawlings/savify/shield.svg?style=for-the-badge
-     :target: https://pyup.io/repos/github/LaurenceRawlings/savify/
+     :target: https://pyup.io/repos/github/DeadLaurin/savify/
      :alt: Updates
 
 
-`Savify <https://github.com/LaurenceRawlings/savify>`__ is a python
+`Savify <https://github/DeadLaurin/savify>`__ is a python
 library that downloads songs from a selected provider (by default YouTube),
 and then scrapes the meta information from Spotify. Given a query, Savify will find
 and download songs to mp3 format with quality as high as **320 kb/s**!
@@ -67,12 +66,8 @@ the downloaded song files.
 
 **Visit our official Docker Hub image repository and get the latest Docker image: https://hub.docker.com/repository/docker/laurencerawlings/savify**
 
-**Any questions or feedback join the** `Discord Server <https://discordapp.com/invite/SPuPEda>`__
+**Any questions or feedback join the** `Discord Server `__
 
-
-.. image:: https://ko-fi.com/img/githubbutton_sm.svg
-     :target: https://ko-fi.com/laurencerawlings
-     :alt: Donate
 
 FFmpeg
 ======
@@ -99,7 +94,7 @@ or you can download the python library and run the module directly using the CLI
 Download the latest release
 ---------------------------
 
-Go `here <https://github.com/LaurenceRawlings/savify/releases>`__ to download
+Go `here <https://github/DeadLaurin/savify/releases>`__ to download
 the latest Savify.exe then make sure you have:
 
 - FFmpeg downloaded and it added to your Path
